@@ -1,6 +1,17 @@
-# foodinfo
+# FoodInformation Application
 
 we can use this for Health Care Application.
+
+##Language:   
+<pre>
+  Flutter
+</pre>
+
+##Organizations:   
+<pre>
+  Yoo dongkeun Hokkaido univ.
+  Ikd hiyori Hirosaki univ.
+</pre>
 
 ##Develop Management:   
 <pre>
