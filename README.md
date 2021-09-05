@@ -1,4 +1,4 @@
-# <i class="fas fa-drumstick-bite"></i> FoodInfo App
+# FoodInfo App
 
 we can use this for Health Care Application.
 
